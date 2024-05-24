@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ashutosh. A Cybersecurity Enthusiast. An Ethical Hacker and a Cyber-Security Consultant.
 - 👀 I’m interested in learning and seeking new opportunities in the field of Information/Cyber Security.
-- 🌱 I’m currently learning AWS Cloud Security and mastering Ethical Hacking.
-- 💞️ I’m looking to collaborate on different open source projects related to Linux, Cyber Security and Cloud.
+- 🌱 I’m currently doing a master's in Computer Science. I also have experience working for 3 years in DevOps.
+- 💞️ I’m looking to collaborate on different open-source projects related to Linux, Cyber Security, and Cloud.
 - 📫 How to reach me: ashusonar1998@gmail.com
 
 <!---
