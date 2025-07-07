@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ashutosh. A Master's Student with an inclination towards DevOps Security.
+- 👋 Hi, I’m Ashutosh. A Computer Science Graduate with an inclination towards DevOps Security.
 - 👀 I’m interested in learning and seeking new opportunities in the field of DevOps.
 - 🌱 I’m currently doing a master's in Computer Science. I also have experience working for 3 years in DevOps.
 - 💞️ I’m looking to collaborate on different open-source projects related to Linux, Devops, Cyber Security, and Cloud.
